@@ -84,3 +84,8 @@ If you have not yet achieved your evaluation metric, consider the following ques
 3. Could you further improve the current models beyond what has been done so far?
 
   * Investigate additional techniques for optimizing your existing models, such as hyperparameter tuning, feature engineering, or using ensemble methods.
+
+Authors and Acknowledgments Aarav sharma- Initial work
+
+Contact For any questions or feedback, please contact aarav012005@gmail.com.
+
